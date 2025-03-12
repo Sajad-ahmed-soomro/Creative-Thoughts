@@ -1,1 +1,2 @@
-sldkjfldsjflsdjfksjdlfkjslkdj
+const a=5;
+print(a)
